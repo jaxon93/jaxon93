@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaxon93&label=Profile%20views&color=0e75b6&style=flat" alt="jaxon93" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaxon93" alt="jaxon93" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@jax_on93" target="blank"><img src="https://img.shields.io/twitter/follow/@jax_on93?logo=twitter&style=for-the-badge" alt="@jax_on93" /></a> </p>
 
 - 🔭 I’m currently working on [#project name](#project link)
